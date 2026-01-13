@@ -68,7 +68,6 @@
         @include('admin.layouts.sidebar')
     </div>
     <!-- End Sidebar -->
-
     <div class="main-panel">
         @include('admin.layouts.header')
         <div class="container">
