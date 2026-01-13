@@ -12,6 +12,7 @@ Route::prefix('customer')
     ->group(function () {
         Route::get('/index', [ShopController::class, 'showIndex'])->name('showIndex');
     });
+
 Route::prefix('admin')
     ->name('admin.')
     ->group(function () {
