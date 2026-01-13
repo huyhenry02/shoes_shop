@@ -5,7 +5,7 @@ use App\Http\Controllers\Customer\ShopController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return redirect()->route('customer.showIndex');
+    return redirect()->route('admin.customer.showIndex');
 });
 Route::prefix('customer')
     ->name('customer.')

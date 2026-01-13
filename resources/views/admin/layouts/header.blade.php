@@ -1,7 +1,7 @@
 <div class="main-header">
     <div class="main-header-logo">
         <!-- Logo Header -->
-        <div class="logo-header" data-background-color="blue">
+        <div class="logo-header" data-background-color="orange">
             <a href="#" class="logo">
 
             </a>
@@ -20,7 +20,7 @@
     </div>
     <nav
         class="navbar navbar-header navbar-header-transparent navbar-expand-lg border-bottom"
-        data-background-color="blue"
+        data-background-color="orange"
         style="color: white"
     >
         <div class="container-fluid">
